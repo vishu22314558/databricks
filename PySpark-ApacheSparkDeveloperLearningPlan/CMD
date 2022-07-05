@@ -1,0 +1,2 @@
+git -c http.sslVerify=false clone https://github.com/vishu22314558/databricks.git
+
